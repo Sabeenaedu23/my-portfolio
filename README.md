@@ -41,7 +41,7 @@ I created this portfolio to showcase my front-end development skills, practical 
 
 ## 🌐 Live Portfolio
 
-[View My Portfolio](ADD_YOUR_LIVE_WEBSITE_LINK_HERE)
+[View My Portfolio](https://sabeenaedu23.github.io/my-portfolio/)
 
 ## 📬 Contact Me
 
